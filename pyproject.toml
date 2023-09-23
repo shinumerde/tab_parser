@@ -2,7 +2,7 @@
 name = "tabparser"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Ruslan Vlasenko <shinumerde@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
@@ -11,7 +11,6 @@ selenium = "^4.4.3"
 Kivy = "^2.1.0"
 lxml = "^4.9.1"
 Django = "^4.1.1"
-pylint = "^2.15.2"
 
 [tool.poetry.dev-dependencies]
 
